@@ -958,6 +958,15 @@
    'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\Orhan\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
+<<<<<<< HEAD
+=======
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Orhan\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Orhan\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tracemalloc.py',
+>>>>>>> 2abe668185542711e3df907ab7ad4e029fe13b54
    'PYMODULE'),
   ('getpass',
    'C:\\Users\\Orhan\\AppData\\Local\\Programs\\Python\\Python310\\lib\\getpass.py',
@@ -974,12 +983,15 @@
   ('http.cookiejar',
    'C:\\Users\\Orhan\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\cookiejar.py',
    'PYMODULE'),
+<<<<<<< HEAD
   ('stringprep',
    'C:\\Users\\Orhan\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
    'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\Orhan\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tracemalloc.py',
    'PYMODULE'),
+=======
+>>>>>>> 2abe668185542711e3df907ab7ad4e029fe13b54
   ('PyQt5',
    'C:\\Users\\Orhan\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\__init__.py',
    'PYMODULE'),
